@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Strand
+comment0.text=\r\n\ Create\ the\ Strands\ for\ the\ Spiderweb\r\n\ \r\n\ @author\ Santiago\ S\u00E1nchez\ y\ Jonathan\ Su\u00E1rez\ \r\n\ @version\ 20/02/2024\r\n
+comment1.params=strands\ radius
+comment1.target=Strand(int,\ int)
+comment1.text=\r\n\ Constructor\ of\ the\ Strands\ in\ the\ Web\r\n\ @param\ strands,\ quantity\ of\ the\ strands\ in\ the\ Spiderweb\r\n\ @param\ radio,\ radio\ of\ the\ strands\ in\ the\ SpiderWeb\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Make\ visible\ the\ Strand\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Make\ Invisible\ the\ Strand\r\n
+numComments=4

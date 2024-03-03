@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bridge
+comment0.text=\r\n\ Create\ a\ Bridge\ between\ two\ Strands\ in\ the\ Web.\r\n\ \r\n\ @author\ Santiago\ S\u00E1nchez\ y\ Jonathan\ Su\u00E1rez\ \r\n\ @version\ 20/02/2024\r\n
+comment1.params=color\ angle\ distance\ firstStrand
+comment1.target=Bridge(java.lang.String,\ double,\ int,\ int)
+comment1.text=\r\n\ Constructor\ of\ the\ Bridge\r\n\ \r\n\ @param\ color,\ color\ of\ the\ Bridge\r\n\ @param\ bridge,\ Line\ that\ draw\ the\ Bridge\r\n\ @param\ distance,\ distance\ from\ the\ centre\ where\ the\ bridge\ is\r\n\ @param\ angle,\ angle\ between\ each\ strand\r\n\ @param\ firstStrand,\ Strand\ where\ the\ bridge\ start\r\n
+comment2.params=distance\ firstStrand
+comment2.target=void\ addBridge(int,\ int)
+comment2.text=\r\n\ Give\ a\ Brigde\ the\ given\ properties.\r\n\ @param\ color,\ color\ of\ the\ Bridge\r\n\ @param\ distance,\ distance\ from\ the\ center\ where\ the\ Bridge\ is\r\n\ @param\ firsStrand,\ Strand\ where\ the\ bridge\ start\r\n
+comment3.params=color\ distance
+comment3.target=void\ relocateBridge(java.lang.String,\ int)
+comment3.text=\r\n\ Relocate\ a\ Bridge\ given\ its\ color.\r\n\ @param\ color,\ color\ of\ the\ Bridge\r\n\ @param\ distance,\ distance\ from\ the\ center\ where\ the\ Bridge\ is\r\n
+comment4.params=color
+comment4.target=void\ delBridge(java.lang.String)
+comment4.text=\r\n\ Delete\ a\ Bridge\ given\ its\ color.\r\n\ @param\ color,\ color\ of\ the\ Bridge\r\n\ @param\ distance,\ distance\ from\ the\ center\ where\ the\ Bridge\ is\r\n
+numComments=5

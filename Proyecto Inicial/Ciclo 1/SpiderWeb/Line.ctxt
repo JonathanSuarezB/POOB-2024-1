@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ A\ line\ that\ can\ be\ manipulated\ and\ draw\ itself\ on\ the\ Canvas\r\n\ \r\n\ @author\ Santiago\ S\u00E1nchez\ y\ Jonathan\ Su\u00E1rez\ \r\n\ @version\ 20/02/2024\r\n
+comment1.params=color\ from\ to
+comment1.target=Line(java.lang.String,\ double[],\ double[])
+comment1.text=\r\n\ Constructor\ Line\r\n\ \r\n\ @param\ color,\ color\ of\ the\ Line\r\n\ @param\ xInitial,\ initial\ position\ in\ x\r\n\ @param\ yInitial,\ initial\ position\ in\ y\r\n\ @param\ xFinal,\ final\ position\ in\ x\r\n\ @param\ yFinal,\ final\ position\ in\ y\r\n
+comment2.params=
+comment2.target=int\ distanciaTotal()
+comment2.text=\ \r\n\ Give\ the\ lenght\ of\ the\ Line\r\n\ @return\ int,\ value\ of\ the\ lenght\ of\ the\ Line\r\n
+comment3.params=
+comment3.target=void\ makeVisible()
+comment3.text=\r\n\ Make\ visible\ the\ Line\ in\ the\ Canvas\r\n
+comment4.params=
+comment4.target=void\ makeInvisible()
+comment4.text=\r\n\ Make\ invisible\ the\ Line\r\n
+comment5.params=
+comment5.target=void\ draw()
+comment5.text=\r\n\ Draw\ the\ structure\ of\ the\ Line\r\n
+comment6.params=
+comment6.target=void\ erase()
+comment6.text=\r\n\ Erase\ the\ structure\ of\ the\ Line\r\n
+numComments=7

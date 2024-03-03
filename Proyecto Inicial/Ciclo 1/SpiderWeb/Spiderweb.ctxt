@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Spiderweb
+comment0.text=\r\n\ Create\ a\ Spiderweb\r\n\ \r\n\ @author\ Santiago\ S\u00E1nchez\ y\ Jonathan\ Su\u00E1rez\ \r\n\ @version\ 20/02/2024\r\n
+comment1.params=strands\ radio
+comment1.target=Spiderweb(int,\ int)
+comment1.text=\r\n\ Constructor\ Spiderweb\r\n\ @param\ strands,\ quantity\ of\ the\ strands\ in\ the\ Spiderweb\r\n\ @param\ radio,\ radio\ of\ the\ strands\ in\ the\ SpiderWeb\r\n
+comment2.params=color\ distance\ firstStrand
+comment2.target=void\ addBridge(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Add\ a\ new\ bridge\ into\ the\ Spiderweb\r\n\ @param\ color,\ color\ of\ the\ Bridge\r\n\ @param\ distance,\ distance\ from\ the\ center\ where\ the\ Bridge\ is\r\n\ @param\ firsStrand,\ Strand\ where\ the\ bridge\ start\r\n
+comment3.params=color\ distance
+comment3.target=void\ relocateBridge(java.lang.String,\ int)
+comment3.text=\r\n\ Relocate\ an\ existent\ Bridge\ to\ the\ desired\ distance\r\n\ @param\ color,\ color\ of\ the\ Bridge\r\n\ @param\ distance,\ distance\ from\ the\ center\ where\ the\ Bridge\ will\ be\r\n
+comment4.params=color
+comment4.target=void\ delBridge(java.lang.String)
+comment4.text=\r\n\ Delete\ a\ Bridge\ given\ its\ color.\r\n\ @param\ color,\ color\ of\ the\ Bridge\r\n\ @param\ distance,\ distance\ from\ the\ center\ where\ the\ Bridge\ is\r\n
+numComments=5

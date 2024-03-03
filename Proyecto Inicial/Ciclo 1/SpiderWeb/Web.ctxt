@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Web
+comment0.text=\r\n\ A\ figure\ that\ represents\ a\ Web\r\n\ \r\n\ @author\ Santiago\ S\u00E1nchez\ y\ Jonathan\ Su\u00E1rez\ \r\n\ @version\ 20/02/2024\r\n
+comment1.params=radio
+comment1.target=Web(int)
+comment1.text=\r\n\ Constructor\ Web\r\n\ @param\ radio,\ lenght\ of\ the\ Web\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Make\ visible\ the\ Web\ in\ the\ Canvas\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Make\ Invisible\ the\ Web\ in\ the\ Canvas\r\n
+numComments=4

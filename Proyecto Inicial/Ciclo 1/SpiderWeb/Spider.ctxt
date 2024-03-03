@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spider
+comment0.text=\r\n\ A\ figure\ that\ represents\ a\ Spider\r\n\ \r\n\ @author\ Santiago\ S\u00E1nchez\ y\ Jonathan\ Su\u00E1rez\ \r\n\ @version\ 20/02/2024\r\n
+comment1.params=location
+comment1.target=Spider(int[])
+comment1.text=\r\n\ Constructor\ Spider\r\n\ @param\ location,\ location\ in\ coordinates\ [x,\ y]\ where\ the\ spider\ spawn\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Make\ visible\ the\ Spider\ in\ the\ Canvas\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Make\ invisible\ the\ Spider\ in\ the\ Canvas\r\n
+numComments=4
